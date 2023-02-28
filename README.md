@@ -18,6 +18,6 @@ To attend the workshop here are some recommended prerequisites to help you ge
   - Link to launch IBM Quantum Lab: https://quantum-computing.ibm.com/lab
   - Qiskit Textbook: https://qiskit.org/learn/course/introduction-course
   - Qiskit SDK: https://qiskit.org/ 
-  - Qiskit Documentation: Qiskit Runtime, Qiskit Machine Learning, Quantum Serverless, Circuit Knitting toolbox
+  - Qiskit Documentation: [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/), [Qiskit Machine Learning](https://qiskit.org/documentation/machine-learning/), [Quantum Serverless](https://github.com/Qiskit-Extensions/quantum-serverless), [Circuit Knitting toolbox](https://github.com/Qiskit-Extensions/circuit-knitting-toolbox)
   - Link to join Qiskit slack: https://ibm.co/joinqiskitslack
 
